@@ -1,6 +1,6 @@
 # Censo-Nacional
 
-Este proyecto de analítica de datos se centra en el análisis de la información de tres departamentos de Colombia: **Quindío**, **Chocó** y **Putumayo**. El objetivo principal es realizar una limpieza y transformación de los datos para identificar diferencias clave en aspectos como población, nivel educativo, edad, entre otros indicadores.
+Este proyecto de analítica de datos se centra en el análisis de la información poblacional de tres departamentos de Colombia: **Quindío**, **Chocó** y **Putumayo**. El objetivo principal es realizar una limpieza y transformación de los datos para identificar diferencias clave en aspectos como población, nivel educativo, edad, entre otros indicadores.
 
 ## Tecnologías utilizadas
 - **Pandas (v2.2.2):** para la limpieza, transformación y manejo de los datos.
